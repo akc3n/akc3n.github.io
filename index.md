@@ -2,9 +2,9 @@
 
 > I'm just an ordinary human that loves to learn, solve puzzles, and eating all types of food.  
   
-Passion for FOSS (free and open source software).   
+Passion for FOSS (Free and Open-Source Software).   
 Privacy and Security Enthusiast.  
-Aspiring InfoSec professional.  
+Aspiring InfoSec Professional.  
 Advocate for Mental Health Awareness
 
 I don't like being around people.  
@@ -13,11 +13,11 @@ I don't like material things.
 I like playing chess.  
 I miss playing tennis and other activities.  
 
-I seek truth, connection and light.  
+I seek truth, connection and knowledge. 
 
 ## The purpose of this site
 
-A place to organize my interests and learn
+A place to organize my interests.
 
 *rough draft write up*
 
