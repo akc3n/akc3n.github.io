@@ -1,6 +1,6 @@
 ## [root@localhost ~]# whoami
 
-> I'm just an ordinary human that loves to learn, solve puzzles, and eating all types of food.  
+> I'm just an ordinary human that loves to learn, solve puzzles, and eat all types of food.  
   
 Passion for FOSS (Free and Open-Source Software).   
 Privacy and Security Enthusiast.  
